@@ -185,11 +185,8 @@ theme = "matataki"
 # weight = 800
 [fonts]
 size = 30
-extras = [
-  { family = "Monaspace Neon" },
-  { family = "Symbols Nerd Font" },
-  { family = "Noto Sans CJK SC" },
-]
+family = "MonaspiceNe Nerd Font"
+extras = [{ family = "Noto Sans CJK SC" }]
 
 # Scroll
 #
