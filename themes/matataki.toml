@@ -2,7 +2,7 @@
 # Regular colors
 background = '#0F172A' # slate.900
 black = '#0F172A'      # slate.900
-blue = '#38BDF8'       # sky.400
+blue = '#60A5FA'       # blue.400
 cursor = '#F1F5F9'     # slate.100
 cyan = '#67E8F9'       # cyan.300
 foreground = '#CBD5E1' # slate.300
@@ -16,11 +16,11 @@ yellow = '#FACC15'     # yellow.400
 tabs = '#0F172A'                 # slate.900
 tabs-active = '#F1F5F9'          # slate.100
 selection-foreground = '#F1F5F9' # slate.100
-selection-background = '#0C4A6E' # sky.900
+selection-background = '#164E63' # cyan.900
 
 # Dim colors
 dim-black = '#0F172A'      # slate.900
-dim-blue = '#38BDF8'       # sky.400
+dim-blue = '#60A5FA'       # blue.400
 dim-cyan = '#67E8F9'       # cyan.300
 dim-foreground = '#CBD5E1' # slate.300
 dim-green = '#2DD4BF'      # teal.400
@@ -31,7 +31,7 @@ dim-yellow = '#FACC15'     # yellow.400
 
 # Light colors
 light-black = '#64748B'      # slate.500
-light-blue = '#7DD3FC'       # sky.300
+light-blue = '#93C5FD'       # blue.300
 light-cyan = '#A5F3FC'       # cyan.200
 light-foreground = '#F1F5F9' # slate.100
 light-green = '#5EEAD4'      # teal.300
