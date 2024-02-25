@@ -13,8 +13,8 @@ white = '#CBD5E1'      # slate.300
 yellow = '#FACC15'     # yellow.400
 
 # UI colors
-tabs = '#0F172A'                 # slate.900
-tabs-active = '#F1F5F9'          # slate.100
+tabs = '#1E293B'                 # slate.800
+tabs-active = '#E2E8F0'          # slate.200
 selection-foreground = '#F1F5F9' # slate.100
 selection-background = '#164E63' # cyan.900
 
